@@ -18,9 +18,5 @@ Future developments to include a greater range of:
 - A wider range of materials, including AlSi10Mg and GrCop-42
 - Turbomachinery Modelling
 
-Please enjoy!
-
-Ad Astra!!
-
 # How to use 
 
